@@ -31,10 +31,10 @@ centralized-secret-management
 │   ├── app_insecure.py
 │   └── app_secure.py
 ├── iam
-│   └── secrets_manager_policy.json ![IAM Policy](Images/Policy/step1.jpg)
+│   └── secrets_manager_policy.json 
 ├── screenshots
 │   ├── secret_created.png
-│   ├── iam_policy.png
+│   ├── iam_policy.txt
 │   ├── ec2_iam_role.png
 │   └── secret_retrieval.png
 
