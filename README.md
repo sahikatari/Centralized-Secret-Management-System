@@ -31,7 +31,7 @@ centralized-secret-management
 │   ├── app_insecure.py
 │   └── app_secure.py
 ├── iam
-│   └── secrets_manager_policy.json (Images/Policy/step1.jpg)
+│   └── secrets_manager_policy.json ![IAM Policy](Images/Policy/step1.jpg)
 ├── screenshots
 │   ├── secret_created.png
 │   ├── iam_policy.png
