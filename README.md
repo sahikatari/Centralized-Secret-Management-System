@@ -21,7 +21,24 @@ Implement a secure secret management system where:
 
 ---
 
-## ⚙️ Project Implementation
+## 📂 Project Structure
+
+```
+centralized-secret-management
+├── README.md
+├── requirements.txt
+├── app
+│   ├── app_insecure.py
+│   └── app_secure.py
+├── iam
+│   └── secrets_manager_policy.json (Images/Policy/step1.jpg)
+├── screenshots
+│   ├── secret_created.png
+│   ├── iam_policy.png
+│   ├── ec2_iam_role.png
+│   └── secret_retrieval.png
+
+```
 
 ### 1️⃣ Application Setup
 
