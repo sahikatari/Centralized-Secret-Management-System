@@ -100,13 +100,13 @@ pip install -r requirements.txt
 Run insecure version (for comparison):
 
 ```bash
-python3 app/app_insecure.py
+python3 app_insecure.py
 ```
 
 Run secure version:
 
 ```bash
-python3 app/app_secure.py
+python3 app_secure.py
 ```
 
 The secure application retrieves credentials dynamically from **AWS Secrets Manager** using an **IAM Role**, eliminating the need for hardcoded secrets.
